@@ -1,5 +1,5 @@
 import axios from 'axios'
-import Cookie from 'js-cookie'
+import Cookies from 'js-cookie'
 import ApiData from '../dtos/apiData'
 
 const api = axios.create({
