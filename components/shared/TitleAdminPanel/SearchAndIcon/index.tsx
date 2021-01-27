@@ -1,5 +1,4 @@
 import React from 'react'
-import { Row, Col } from 'react-bootstrap'
 import { useState, useEffect } from 'react'
 import { IconProp } from '@fortawesome/fontawesome-svg-core'
 import styles from '../../../../styles/AdminTitle.module.css'
